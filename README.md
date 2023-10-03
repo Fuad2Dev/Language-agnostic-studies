@@ -1,0 +1,2 @@
+# Introduction
+"Programming language agnostic" refers to a concept or approach in software development that is not tied to any specific programming language. It means that a particular principle, technique, or concept can be applied across various programming languages without being dependent on the syntax or features of a single language.
